@@ -5,7 +5,7 @@ function setup() {
   eyes.push(new Eye(140, 120));
   eyes.push(new Eye(260, 120));
 }
-
+ 
 function draw() {
   background("#e8f5e9");
 
