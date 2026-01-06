@@ -1,0 +1,28 @@
+# 👁️ Olhos Interativos em p5.js
+
+Projeto experimental em **p5.js** explorando interação, estados emocionais e animação procedural.
+
+## ✨ Funcionalidades
+- Pupilas seguem o mouse com limite físico
+- Cutucar os olhos aumenta a vermelhidão
+- Veias seguem o movimento da pupila
+- Olhos piscam quando tocados
+- Lágrimas se acumulam na pálpebra inferior
+- Lágrimas pingam uma por vez
+- O olho se acalma sozinho com o tempo
+- É possível "secar" as lágrimas passando o mouse
+
+## 🛠️ Tecnologias
+- JavaScript
+- p5.js
+
+## 🎮 Interação
+- Clique sobre um olho para cutucar
+- Passe o mouse sobre a pálpebra inferior para secar as lágrimas
+
+## 📸 Preview
+*(você pode colocar um gif aqui depois)*
+
+---
+
+Projeto feito para estudo e portfólio.
