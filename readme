@@ -1,6 +1,5 @@
-# 👁️ Olhos Interativos em p5.js
+# 👁️ Olhos Interativos
 
-Projeto experimental em **p5.js** explorando interação, estados emocionais e animação procedural.
 
 ## ✨ Funcionalidades
 - Pupilas seguem o mouse com limite físico
@@ -19,9 +18,6 @@ Projeto experimental em **p5.js** explorando interação, estados emocionais e a
 ## 🎮 Interação
 - Clique sobre um olho para cutucar
 - Passe o mouse sobre a pálpebra inferior para secar as lágrimas
-
-## 📸 Preview
-*(você pode colocar um gif aqui depois)*
 
 ---
 
